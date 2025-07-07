@@ -91,12 +91,3 @@ The solver enforces **node consistency** (word length), **arc consistency** (ove
 - Perfect for your portfolio or resume!
 
 ---
-
-## 📜 License
-
-MIT License
-
----
-
-> “Solving puzzles is not just a pastime, but a celebration of logic and creativity.”  
-> — *Crossword Puzzle
