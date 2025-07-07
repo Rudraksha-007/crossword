@@ -71,18 +71,6 @@ The solver enforces **node consistency** (word length), **arc consistency** (ove
 
 ---
 
-## 📸 Example Output
-
-![Crossword Example](assets/example.png)
-
----
-
-## 👨‍💻 Author
-
-- **Your Name**  
-  [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
-
----
 
 ## ⭐️ Why This Project?
 
